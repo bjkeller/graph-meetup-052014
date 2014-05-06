@@ -1,0 +1,14 @@
+{
+  "name": "graph-meetup-052014",
+  "version": "0.0.0",
+  "description": "lab code for cytoscape.js",
+  "scripts": {
+    "start": "http-server -p 8000"
+  },
+  "author": "Ben J. Keller",
+  "license": "MIT",
+  "devDependencies": {
+    "cytoscape": "^2.2.6",
+    "http-server": "^0.6.1"
+  }
+}
